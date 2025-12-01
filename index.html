@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Manitoba PSE News Monitor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>Manitoba Post-Secondary News Monitor</h1>
+      <p class="tagline">
+        Daily overview of news related to Manitoba’s post-secondary education system, students, and programs.
+      </p>
+      <p id="last-updated" class="last-updated" aria-live="polite"></p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section aria-labelledby="mb-heading">
+      <h2 id="mb-heading">Manitoba</h2>
+      <div id="mb-list" class="news-list" aria-live="polite">
+        <p class="placeholder">Loading Manitoba news…</p>
+      </div>
+    </section>
+
+    <section aria-labelledby="ca-heading">
+      <h2 id="ca-heading">Canada</h2>
+      <div id="ca-list" class="news-list" aria-live="polite">
+        <p class="placeholder">Loading Canada-wide news…</p>
+      </div>
+    </section>
+
+    <section aria-labelledby="world-heading">
+      <h2 id="world-heading">World</h2>
+      <div id="world-list" class="news-list" aria-live="polite">
+        <p class="placeholder">Loading international news…</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="footnote">
+        This page is an internal news monitor. Links lead to external news outlets and institutional sites.
+      </p>
+    </div>
+  </footer>
+</body>
+</html>
