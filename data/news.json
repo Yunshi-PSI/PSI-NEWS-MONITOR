@@ -1,0 +1,37 @@
+{
+  "generated_at": "2025-12-01",
+  "manitoba": [
+    {
+      "outlet": "Winnipeg Free Press",
+      "headline": "Brandon University expands student mental health supports",
+      "date": "2025-11-29",
+      "url": "https://example.com/winnipeg-free-press/bu-mental-health-supports",
+      "summary": "Brandon University is increasing on-campus and virtual counselling services, with a focus on international and rural students."
+    },
+    {
+      "outlet": "CBC Manitoba",
+      "headline": "Red River College Polytechnic adds new health-care aide seats",
+      "date": "2025-11-27",
+      "url": "https://example.com/cbc-mb/rrc-health-care-aide-seats",
+      "summary": "The college announced additional health-care aide training seats to support staffing in long-term care homes across Manitoba."
+    }
+  ],
+  "canada": [
+    {
+      "outlet": "CBC News",
+      "headline": "Universities across Canada respond to student housing pressures",
+      "date": "2025-11-25",
+      "url": "https://example.com/cbc-national/student-housing",
+      "summary": "Post-secondary institutions are exploring new residence projects, homestay partnerships, and zoning reforms to address student housing shortages."
+    }
+  ],
+  "world": [
+    {
+      "outlet": "BBC News",
+      "headline": "Global demand for nurses reshapes international education programs",
+      "date": "2025-11-24",
+      "url": "https://example.com/bbc/global-nursing-programs",
+      "summary": "Colleges and universities are expanding internationally focused nursing programs to address worldwide shortages of trained health professionals."
+    }
+  ]
+}
